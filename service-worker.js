@@ -21,15 +21,15 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.1.0/workbox
 self.__precacheManifest = [
   {
     "url": "20170413/setup-google-analytics-vuepress.html",
-    "revision": "0d5345b264c51c0095538a110682fe32"
+    "revision": "e4eac4458f9a86d3158b2f4fea51839e"
   },
   {
     "url": "404.html",
-    "revision": "c27960a42f329d02f076d6e1fca4d346"
+    "revision": "c79319420368e08d634dff0b17d5801c"
   },
   {
-    "url": "assets/css/4.styles.4902bbea.css",
-    "revision": "cb76edfd3ff96bc11205b2521221849b"
+    "url": "assets/css/4.styles.9ab8a37a.css",
+    "revision": "f619090a949d7fcecc5215ee437b4054"
   },
   {
     "url": "assets/img/image.222d1b29.jpg",
@@ -64,20 +64,20 @@ self.__precacheManifest = [
     "revision": "6adea17f6dadaeb84b15ce1dea1bc200"
   },
   {
-    "url": "assets/js/app.9961b29f.js",
-    "revision": "70bcb958e5484f7f5c597dd919533a56"
+    "url": "assets/js/app.62218a6f.js",
+    "revision": "6dcbdb31769e17bcff6cadcb143eb696"
   },
   {
     "url": "drawings/index.html",
-    "revision": "342c05c0f17d6884795dbad898525382"
+    "revision": "cbd6fa4ed930ef154c3c0ca8255eb795"
   },
   {
     "url": "drawings/twitter.html",
-    "revision": "f9b47ac0e1c9153454f9e1c58a5c9e53"
+    "revision": "b151c3fe56a1450c708be9a454683be4"
   },
   {
     "url": "index.html",
-    "revision": "70b8ac533bd585c7800449d5b34fd703"
+    "revision": "3d9673e06cc40ae43ef0df77b82c47c9"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
