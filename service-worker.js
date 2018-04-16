@@ -21,15 +21,15 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.1.0/workbox
 self.__precacheManifest = [
   {
     "url": "20170413/setup-google-analytics-vuepress.html",
-    "revision": "e4eac4458f9a86d3158b2f4fea51839e"
+    "revision": "5fd38a5ba9e3f3fd97500fe724cc110a"
   },
   {
     "url": "404.html",
-    "revision": "c79319420368e08d634dff0b17d5801c"
+    "revision": "27a62b7bed5fb49123c0aeeb5bda9bb4"
   },
   {
-    "url": "assets/css/4.styles.9ab8a37a.css",
-    "revision": "f619090a949d7fcecc5215ee437b4054"
+    "url": "assets/css/4.styles.b3eb5668.css",
+    "revision": "249818adb9e31e5aafbbd9f052cbdac6"
   },
   {
     "url": "assets/img/image.222d1b29.jpg",
@@ -60,24 +60,24 @@ self.__precacheManifest = [
     "revision": "961cc2ad0e9d08bc89b25b517e87bfc8"
   },
   {
-    "url": "assets/js/3.e542de2a.js",
+    "url": "assets/js/3.d1f38a19.js",
     "revision": "6adea17f6dadaeb84b15ce1dea1bc200"
   },
   {
-    "url": "assets/js/app.62218a6f.js",
-    "revision": "6dcbdb31769e17bcff6cadcb143eb696"
+    "url": "assets/js/app.02c5d909.js",
+    "revision": "b2a89f2c412b586d5378f9577321de9c"
   },
   {
     "url": "drawings/index.html",
-    "revision": "cbd6fa4ed930ef154c3c0ca8255eb795"
+    "revision": "4c8fa7e6e30d095b2fac8ecb6fc58281"
   },
   {
     "url": "drawings/twitter.html",
-    "revision": "b151c3fe56a1450c708be9a454683be4"
+    "revision": "92c2d00c02e70988967b51222c4e61a8"
   },
   {
     "url": "index.html",
-    "revision": "3d9673e06cc40ae43ef0df77b82c47c9"
+    "revision": "5b91f4aadf385c6ba05d7ae13f220dac"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
